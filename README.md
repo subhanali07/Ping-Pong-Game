@@ -35,3 +35,8 @@ Make sure you have [Python 3](https://www.python.org/downloads/) installed on yo
    ```bash
    git clone [https://github.com/subhanali07/Ping-Pong-Game.git](https://github.com/subhanali07/Ping-Pong-Game.git)
    cd Ping-Pong-Game
+ 2. **Run the game:**
+   ```bash
+   python3 pingpong.py
+
+   
